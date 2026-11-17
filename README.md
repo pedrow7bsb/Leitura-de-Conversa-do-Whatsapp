@@ -1,4 +1,4 @@
-# 💬 Automação de Triagem: Do WhatsApp para a Gestão de Tarefas
+#  Automação de Triagem: Do WhatsApp para a Gestão de Tarefas
 
 **Resumo Executivo:** Orquestração de um agente de IA projetado para resolver o gargalo de atendimento e gestão de projetos. A solução lê conversas específicas do WhatsApp, transcreve áudios localmente, extrai promessas e prazos, e roteia automaticamente as tarefas para os repositórios corretos, com um sistema de aprovação humana (*human-in-the-loop*) antes da gravação dos dados.
 
@@ -6,10 +6,10 @@
 
 ---
 
-## 🚩 O Desafio Operacional (A Dor)
+##  O Desafio Operacional (A Dor)
 O gerenciamento de contas e atendimento via WhatsApp gera um alto custo operacional. Perdem-se horas por semana apenas relendo conversas de clientes para resgatar o que foi prometido, quem fez o pedido e quais são os prazos. Isso resulta em falhas de comunicação e perda de produtividade na transição entre o chat e a plataforma de gestão de tarefas.
 
-## 💡 Arquitetura e Fluxograma da Solução
+##  Arquitetura e Fluxograma da Solução
 
 O sistema foi desenhado para atuar como um assistente de triagem inteligente e autônomo, estruturado no seguinte fluxo de ponta a ponta:
 
